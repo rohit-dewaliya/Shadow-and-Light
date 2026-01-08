@@ -98,9 +98,3 @@ shadow-and-light-game/
 ![img.png](data/images/game_play.png)
 
 ---
-
-## 📧 Contact  
-For any issues, suggestions, or feedback, feel free to open an issue on the repository or contact:  
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)  
-
----
